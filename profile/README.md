@@ -15,7 +15,7 @@
   ·
   <a href="https://expensive-company.github.io/">Website</a>
   ·
-  <a href="https://vk.com/expensive-company/">VK</a>
+  <a href="https://vk.com/expensive_company/">VK</a>
   ·
-  <a href="https://t.me/expensive-company/">Telegram</a>
+  <a href="https://t.me/expensive_company/">Telegram</a>
 </p>
